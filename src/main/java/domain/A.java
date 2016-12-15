@@ -6,6 +6,14 @@ public class A {
 
     private String str;
 
+    public A() {
+    }
+
+    public A(int num, String str) {
+        this.num = num;
+        this.str = str;
+    }
+
     public int getNum() {
         return num;
     }

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: . ./lib/test.jar
+Main-Class: com.chf.example.jdk.spi.Main
+
